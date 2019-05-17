@@ -1,0 +1,107 @@
+body {
+	margin: 1% 12% 1% 12%;
+
+}
+.top-link-page {
+	border: 2px solid #78C0E0;
+	border-radius: 15px;
+	width: 45%
+}
+
+.page-font-li {
+	line-height: 0.9;
+}
+
+.p-margir-top {
+margin-top: 5%;
+}
+
+.li-letter-size {
+	font-size: 0.7em;
+}
+
+.text-decoration-none {
+	text-decoration: none;
+}
+
+h1 {
+	color: #150578;
+	text-shadow: 2px 2px #ccc;
+}
+
+.margin-tittle {
+	margin-bottom: 0px;
+}
+
+.page-font {
+	font-family: "Verdana";
+	font-size: 1rem;
+	line-height: 1.3;
+}
+
+.top-magrin {
+margin-left: 3%;
+}
+
+.section-li-font-size {
+	font-size: 0.7em;
+}
+
+.font-weight-h {
+	font-weight: normal;
+	font-size: 1.2em;
+}
+
+.article-border-main {
+	font-family: "Segoe UI";
+	border: 1px solid black;
+	margin-left: 10%;
+	padding-right: 1%;
+	padding-left: 1%;
+	width: 575px;
+}
+
+.main-text-indent {
+	text-indent: 5%;
+}
+
+.main-text-space {
+	letter-spacing: 0.1em;
+}
+
+h2 {
+	text-align: center;
+	color: #3943B7;
+}
+
+.article-border-footer {
+	border: 1px dashed #78C0E0;
+	border-radius: 15px;
+	text-align: right;
+	margin-top: 5%;
+	padding-right: 1%;
+
+}
+
+.sitting-width-image {
+	width: 455px;
+}
+
+.sitting-width-h {
+	width: 685px;
+	font-size: 1.8em;
+}
+
+.footer-article-font-size {
+	font-size: 0.7em;
+}
+
+.address-font-size {
+	font-size: 0.6em;
+}
+
+.footer-margin-bottom-size {
+	margin-bottom: 5%;
+}
+
+
